@@ -39,3 +39,4 @@ print(a)
 # b = input("请输入你的年龄：")
 # c = input("请输入你的性别：")
 # print({"name":a,"age":b,"sex":c})
+哈哈哈
